@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "question": "What are your working hours?",
+            "answer": "Our working hours are 9 AM to 5 PM."
+        },
+        {
+            "question": "How can I reset my password?",
+            "answer": "Click on the forgot password option on the login page."
+        },
+        {
+            "question": "Where are you located?",
+            "answer": "We are located in Hyderabad."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept UPI, debit cards, credit cards and net banking."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can contact support through email or phone."
+        }
+    ]
+}
